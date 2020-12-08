@@ -1,0 +1,20 @@
+/*
+Theme Name: Prometium
+Theme URI: ''
+Author: Nested It solution
+Author URI: ''
+Description: ''
+Version: 1.0
+Requires at least: ''
+Requires PHP: 7.1.4
+License: ''
+License URI: ''
+Text Domain: Prometium
+Tags: ''
+
+*/
+
+img.custom-logo {
+    max-width: 100%;
+    height: auto;
+}
